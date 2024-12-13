@@ -1,6 +1,3 @@
-# Modify this file to implement the count_pairs_file function
-# using ultra-large integers in C/C++.
-
 def read_file(filename: str) -> tuple[list[int], int]:
     with open(filename) as file:
         # First line is the target
@@ -36,6 +33,10 @@ def test_count_pairs():
     print("count_pairs.py: All tests passed")
 
 import ctypes
+
+def count_pairs_file_to_be_replicated_using_adt(filename: str) -> int:
+    data, target = read_file(filename)
+    return count_pairs(data, target)
 
 def count_pairs_file(filename: str) -> int:
     # Load the shared library
