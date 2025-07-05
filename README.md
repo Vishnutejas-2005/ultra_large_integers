@@ -106,11 +106,12 @@ Will output the number of pairs of integers satisfying the target condition.
 - Optimize memory usage and improve algorithm efficiency for large datasets.
 - Add more extensive testing and benchmarks.
 
-## Contributors
-This project was developed by a team of three:
-- JS Vishnu Teja
-- Kunjan Manoj Kumar S
-- K Bhargav Sashank
+
+## 👥 Contributors
+
+- [@Vishnutejas-2005](https://github.com/Vishnutejas-2005)
+- [@sashank-810](https://github.com/sashank-810)
+- [@skmanoj2006](https://github.com/skmanoj2006)
 
 ## Contributing
 Feel free to fork this repository and submit pull requests. Suggestions, bug reports, and feature requests are welcome.
